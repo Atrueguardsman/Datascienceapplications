@@ -11,3 +11,9 @@ Objectives:
 Limitations:
 
 4. My problems as of now is finding a script to form map of the world in the country, or state province  to create visual. I am currently struggling with importing geopandas. Then my next goal/struggle is take the the malicious content and filter it with pandas and see if there is a similarity of From, and To emails.
+
+I have used multiple sources of datasets including :
+https://www.kaggle.com/starbucks/store-locations
+https://www.kaggle.com/nitishabharathi/cert-insider-threat
+
+Combing datasets to create simulated analysis for academia demo.
